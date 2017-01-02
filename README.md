@@ -20,6 +20,8 @@ Step:4  git repo
 step:6   changes
 
 
+Step:7
+try to update devops file in to staging area
 
 
 Branch-1 changes
