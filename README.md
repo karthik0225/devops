@@ -24,6 +24,9 @@ Step:7
 try to update devops file in to staging area
 
 
+Step:8
+new devops line
+
 Branch-1 changes
  branch changes in local . how to send to remote
 
