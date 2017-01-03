@@ -23,6 +23,8 @@ step:6   changes
 Step:7
 try to update devops file in to staging area
 
+step:9
+This is the new line in local machine.
 
 Branch-1 changes
  branch changes in local . how to send to remote
